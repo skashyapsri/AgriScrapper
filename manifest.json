@@ -1,0 +1,13 @@
+{
+  "name": "AgriScrapper",
+  "description": "Krishi Marata Vahini Data Scraper",
+  "version": "1.0",
+  "background": { "scripts": ["background.js"] },
+  "permissions": [ "webNavigation", "*://*/*" ],
+  "manifest_version": 2,
+  "icons": {
+   "16": "globalGoogle16.png",
+   "48": "globalGoogle48.png",
+  "128": "globalGoogle128.png"
+ }
+}
